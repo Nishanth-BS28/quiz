@@ -1,0 +1,7 @@
+[
+    {"question": "What does CPU stand for?", "options": ["A. Central Process Unit", "B. Central Processing Unit", "C. Computer Processing Unit", "D. Core Processing Unit"], "ans": "B"},
+    {"question": "Which language runs in a web browser?", "options": ["A. Python", "B. Java", "C. JavaScript", "D. C++"], "ans": "C"},
+    {"question": "What does RAM stand for?", "options": ["A. Random Access Memory", "B. Read Access Memory", "C. Run Access Memory", "D. Random Array Memory"], "ans": "A"},
+    {"question": "What symbol is used for comments in Python?", "options": ["A. double bar", "B. double hyphen", "C. hash tag", "D. double star"], "ans": "C"},
+    {"question": "What does HTML stand for?", "options": ["A. Hyper Text Markup Language", "B. High Text Machine Language", "C. Hyper Transfer Markup Language", "D. None of these"], "ans": "A"}
+]
